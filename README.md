@@ -1,8 +1,8 @@
-##👩‍💻 About Me
+👩‍💻 ##About Me
 
 ## Hi there 👋 I'm Vishal, a dedicated Software Development Engineer in Test (SDET) passionate about ensuring software quality and creating seamless user experiences. Skilled in both manual and automated testing, I enjoy designing test strategies and frameworks that make applications robust and reliable.
 
-**🌱 Currently Learning:** Advanced automation techniques using Cypress and Selenium WebDriver.
+- **🌱 Currently Learning:** Advanced automation techniques using Cypress and Selenium WebDriver.
 - **📊 Experience:** Developing automated test scripts, writing detailed test cases, and performing in-depth test analyses.
 - **💼 Projects:** Completed multiple end-to-end testing projects, including manual and automated testing for eCommerce applications.
 - **🌍 Location:** Faridabad
