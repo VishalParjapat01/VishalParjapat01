@@ -16,12 +16,10 @@
 - **🧩 Problem Solving:** Enjoy debugging issues and optimizing test scripts to achieve efficiency.
 - **🤝 Collaboration:** Thrive in team environments, working closely with developers to enhance product quality.
 - **🎯 Automation-Driven:** Committed to expanding the scope of automation to improve test accuracy and save time.
+- 
 
 ## 🛠️ My Tech Toolbox:
 
-## 🧰 My Tech Toolbox:
-
-## 🧰 My Tech Toolbox:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
@@ -38,6 +36,14 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+
+## 🖇️ Let's Connect!
+
+- **📧 Email:** parjapatvishal04@gmail.com
+- **🔗 LinkedIn:** https://www.linkedin.com/in/vishal-parjapat-qa/
+
+  Thanks for stopping by! 😊
 
 
 
