@@ -9,7 +9,7 @@
 - **📧 Contact:** parjapatvishal04@gmail.com | LinkedIn: https://www.linkedin.com/in/vishal-parjapat-qa/
 
 
-##🚀 What Do I Do?
+## 🚀 What Do I Do?
 
 - **🔍 Software Quality Assurance:** Focused on ensuring bug-free and high-performance applications.
 - **💡 Continuous Learning:** Always eager to learn new tools and testing methodologies to improve software quality.
