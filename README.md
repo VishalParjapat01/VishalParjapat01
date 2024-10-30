@@ -1,4 +1,4 @@
-👩‍💻 ## About Me
+## 👩‍💻 About Me
 
 ## Hi there 👋 I'm Vishal, a dedicated Software Development Engineer in Test (SDET) passionate about ensuring software quality and creating seamless user experiences. Skilled in both manual and automated testing, I enjoy designing test strategies and frameworks that make applications robust and reliable.
 
@@ -17,14 +17,14 @@
 - **🤝 Collaboration:** Thrive in team environments, working closely with developers to enhance product quality.
 - **🎯 Automation-Driven:** Committed to expanding the scope of automation to improve test accuracy and save time.
 
-##🛠️ My Tech Toolbox:
+## 🛠️ My Tech Toolbox:
 
 
-- **Languages & Frameworks:** JavaScript, Python, Cypress, Selenium, Postman
-- **Automation Tools:** Cypress, Selenium, JUnit
-- **Test Management:** JIRA
-- **API Testing:** Postman, REST Assured
-- **Other Tools:** Git, Jenkins, VSCode, SQL 
+- ** 🪂 Languages & Frameworks:** JavaScript, Python, Cypress, Selenium, Postman
+- ** ♨️ Automation Tools:** Cypress, Selenium, JUnit
+- ** 📕 Test Management:** JIRA
+- ** ⚜️ API Testing:** Postman, REST Assured
+- ** ✨ Other Tools:** Git, Jenkins, VSCode, SQL 
 
 
 
