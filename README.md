@@ -1,4 +1,4 @@
-👩‍💻 ##About Me
+👩‍💻 ## About Me
 
 ## Hi there 👋 I'm Vishal, a dedicated Software Development Engineer in Test (SDET) passionate about ensuring software quality and creating seamless user experiences. Skilled in both manual and automated testing, I enjoy designing test strategies and frameworks that make applications robust and reliable.
 
