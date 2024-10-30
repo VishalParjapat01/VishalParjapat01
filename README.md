@@ -20,7 +20,7 @@
 ## 🛠️ My Tech Toolbox:
 
 
---> 🪂 Languages & Frameworks:** JavaScript, Python, Cypress, Selenium, Postman
+--> 🪂 Languages & Frameworks: JavaScript, Python, Cypress, Selenium, Postman
 - **♨️ Automation Tools:** Cypress, Selenium, JUnit
 - **📕 Test Management:** JIRA
 - **⚜️ API Testing:** Postman, REST Assured
