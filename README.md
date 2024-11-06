@@ -35,12 +35,9 @@ I am a passionate **Software Development Engineer in Test (SDET)**, specializing
 
 ---
 
-### This Week I Spent My Time On:
+## My GitHub Stats
 
-- Selenium         10 hrs 30 mins ██████████▒░░░░░░░░░░░░░░░░░
-- Cypress          8 hrs 15 mins █████████░░░░░░░░░░░░░░░░░░░
-- API              5 hrs 00 mins ██████▒░░░░░░░░░░░░░░░░░░░░░
-- Other            2 hrs 15 mins ███▒░░░░░░░░░░░░░░░░░░░░░░░░
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalParjapat01&show_icons=true&theme=dark&count_private=true)
 
 ---
 
