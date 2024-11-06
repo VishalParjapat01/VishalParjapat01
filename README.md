@@ -7,8 +7,7 @@
 - 📬 How to reach me:
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:parjapatvishal04@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vishal-parjapat-qa)
-  [![Resume](https://img.shields.io/badge/-Portfolio-FFA500?style=flat&logo=Internet-Explorer&logoColor=white)]([https://your-portfolio-link.com](https://drive.google.com/file/d/1z1yZPhogzXBC-_-6inabwwiLz2m4p9Ov/view?usp=sharing))
-
+  [![Resume](https://img.shields.io/badge/-Resume-FFA500?style=flat&logo=Internet-Explorer&logoColor=white)](https://your-portfolio-link.com](https://drive.google.com/file/d/1z1yZPhogzXBC-_-6inabwwiLz2m4p9Ov/view?usp=sharing))
 ---
 
 ## Tech Stack
@@ -35,20 +34,9 @@
 
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
 
----
 
-## Projects
 
-### [TutorialsNinja-Checkout Automation](https://github.com/your-github-username/TutorialsNinja-Checkout)
-Automated end-to-end testing for the checkout process using Cypress and Page Object Model.
-
-### [E-commerce API Testing](https://github.com/your-github-username/Ecommerce-API-Testing)
-Built API tests for a sample e-commerce platform using Postman and Newman for continuous integration.
-
-### [My Tech Toolbox](https://github.com/your-github-username)
-Showcasing SDET tools, frameworks, and technologies that I've mastered.
 
 ---
 
