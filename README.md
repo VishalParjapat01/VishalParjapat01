@@ -1,8 +1,4 @@
-# Hi there, I'm Vishal  👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-parjapat-qa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:parjapatvishal04@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1z1yZPhogzXBC-_-6inabwwiLz2m4p9Ov/view?usp=sharing)
+# Hi there, I am Vishal 👋 Welcome to my Profile!
 
 ---
 
@@ -11,10 +7,14 @@
 I am a passionate **Software Development Engineer in Test (SDET)**, specializing in both **Manual Testing** and **Automation Testing**. My goal is to build efficient and scalable test automation solutions that ensure the highest quality of software products.
 
 ### About Me:
- 💻 I am currently working as an **SDET**.
+- 💻 I am currently working as an **SDET**.
 - 📚 Currently learning: **Advanced Selenium**,**Advanced Cypress**, **API Testing**.
 - 🧠 Ask me about: **Manual Testing, Automation Testing, Test Strategy**.
 - 🌐 Pronouns: He/Him.
+- 📬 How to reach me:
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:parjapatvishal04@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vishal-parjapat-qa)
+  [![Resume](https://img.shields.io/badge/-Resume-FFA500?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1z1yZPhogzXBC-_-6inabwwiLz2m4p9Ov/view?usp=sharing)
 
 ---
 
@@ -47,7 +47,7 @@ Thank you for visiting my profile! 😊 Let's connect and share knowledge!
 
 
 
-<!-- # Hi there, I am Vishal 👋 Welcome to my Profile!
+<!--# Hi there, I am Vishal 👋 Welcome to my Profile!
 
 - 💻 I am currently working as an **SDET**.
 - 📚 Currently learning: **Advanced Cypress**, **API Testing**.
