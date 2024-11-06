@@ -39,14 +39,6 @@
 
 ---
 
-## Certifications
-
-- **Certified SDET** from Masai School
-- **Cypress Automation Expert** - Certification by [Institute]
-- **ISTQB Foundation Level**
-
----
-
 ## Projects
 
 ### [TutorialsNinja-Checkout Automation](https://github.com/your-github-username/TutorialsNinja-Checkout)
