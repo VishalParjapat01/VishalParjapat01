@@ -7,21 +7,16 @@
 - 📬 How to reach me:
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:parjapatvishal04@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vishal-parjapat-qa)
-  [![Resume](https://img.shields.io/badge/-Resume-FFA500?style=flat&logo=Internet-Explorer&logoColor=white)](https://your-portfolio-link.com](https://drive.google.com/file/d/1z1yZPhogzXBC-_-6inabwwiLz2m4p9Ov/view?usp=sharing))
+  [![Resume](https://img.shields.io/badge/-Resume-FFA500?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1z1yZPhogzXBC-_-6inabwwiLz2m4p9Ov/view?usp=sharing)
 ---
 
-## Programming 
+## 🛠️ My Tech Toolbox
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-
-
----
-## Testing
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
 ![TestNG](https://img.shields.io/badge/-TestNG-FF6F00?style=for-the-badge)
