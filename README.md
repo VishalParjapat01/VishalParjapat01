@@ -36,11 +36,11 @@ I am a passionate **Software Development Engineer in Test (SDET)**, specializing
 ---
 
 ### This Week I Spent My Time On:
-``plaintext
-Selenium         10 hrs 30 mins ██████████▒░░░░░░░░░░░░░░░░░
-Cypress          8 hrs 15 mins █████████░░░░░░░░░░░░░░░░░░░
-API              5 hrs 00 mins ██████▒░░░░░░░░░░░░░░░░░░░░░
-Other            2 hrs 15 mins ███▒░░░░░░░░░░░░░░░░░░░░░░░░
+
+- Selenium         10 hrs 30 mins ██████████▒░░░░░░░░░░░░░░░░░
+- Cypress          8 hrs 15 mins █████████░░░░░░░░░░░░░░░░░░░
+- API              5 hrs 00 mins ██████▒░░░░░░░░░░░░░░░░░░░░░
+- Other            2 hrs 15 mins ███▒░░░░░░░░░░░░░░░░░░░░░░░░
 
 ---
 
