@@ -13,7 +13,7 @@ I am a passionate **Software Development Engineer in Test (SDET)**, specializing
 
 ### About Me:
  💻 I am currently working as an **SDET**.
-- 📚 Currently learning: **Advanced Cypress**, **API Testing**.
+- 📚 Currently learning: **Advanced Selenium**,**Advanced Cypress**, **API Testing**.
 - 🧠 Ask me about: **Manual Testing, Automation Testing, Test Strategy**.
 - 🌐 Pronouns: He/Him.
 
@@ -30,13 +30,17 @@ I am a passionate **Software Development Engineer in Test (SDET)**, specializing
 ---
 
 ### This Week I Spent My Time On:
-```plaintext
+
 Selenium         10 hrs 30 mins ██████████▒░░░░░░░░░░░░░░░░░
 Cypress          8 hrs 15 mins █████████░░░░░░░░░░░░░░░░░░░
 API              5 hrs 00 mins ██████▒░░░░░░░░░░░░░░░░░░░░░
 Other            2 hrs 15 mins ███▒░░░░░░░░░░░░░░░░░░░░░░░░
 
+---
 
+Thank you for visiting my profile! 😊 Let's connect and share knowledge!
+
+---
 
 
 
